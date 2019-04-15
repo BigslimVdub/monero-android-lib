@@ -1,4 +1,6 @@
-# monero-android-lib
+# WooKey Wallet: For Privacy
+
+> Less Privacy Collection; More Privacy Coins; Fully Open Source; Better User Experience
 
 ## HOW TO BUILD
 
